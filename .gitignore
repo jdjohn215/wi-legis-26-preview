@@ -9,3 +9,5 @@
 !/docs/*/*/*/*
 !/docs/*/*/*/*/*
 !/docs/*/*/*/*/*/*
+/.quarto/
+**/*.quarto_ipynb
